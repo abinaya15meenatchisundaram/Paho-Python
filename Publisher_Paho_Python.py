@@ -1,6 +1,6 @@
 
 #                              PUBLISHER CODE                                     
-
+   
 from paho.mqtt import client as mqtt
 import time
 
