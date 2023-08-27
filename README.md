@@ -6,7 +6,7 @@
 This article mainly introduces how to use the paho-mqtt client and implement connection, subscribe, messaging, and other functions between the client and MQTT broker, in the Python project.
 
 ## Project initialization
-This project uses Python 3.6 to develop and test. Readers can use the following command to confirm the Python version.
+This project uses Python 3.6 to develop and test. Readers can use the following command to confirm the Python version. 
 ```
 ➜  ~ python3 --version
 Python 3.6.7
